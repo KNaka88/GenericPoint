@@ -1,0 +1,11 @@
+/Users/koji/Repositories/Csharp/GenericPoint/bin/Debug/netcoreapp2.0/GenericPoint.deps.json
+/Users/koji/Repositories/Csharp/GenericPoint/bin/Debug/netcoreapp2.0/GenericPoint.runtimeconfig.json
+/Users/koji/Repositories/Csharp/GenericPoint/bin/Debug/netcoreapp2.0/GenericPoint.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/GenericPoint/bin/Debug/netcoreapp2.0/GenericPoint.dll
+/Users/koji/Repositories/Csharp/GenericPoint/bin/Debug/netcoreapp2.0/GenericPoint.pdb
+/Users/koji/Repositories/Csharp/GenericPoint/obj/Debug/netcoreapp2.0/GenericPoint.csprojResolveAssemblyReference.cache
+/Users/koji/Repositories/Csharp/GenericPoint/obj/Debug/netcoreapp2.0/GenericPoint.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/GenericPoint/obj/Debug/netcoreapp2.0/GenericPoint.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/GenericPoint/obj/Debug/netcoreapp2.0/GenericPoint.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/GenericPoint/obj/Debug/netcoreapp2.0/GenericPoint.dll
+/Users/koji/Repositories/Csharp/GenericPoint/obj/Debug/netcoreapp2.0/GenericPoint.pdb
